@@ -1,3 +1,4 @@
+![1000036437](https://github.com/user-attachments/assets/b1832926-dbef-445d-a19d-704ad9c07c38)
 Hi my name is Gurwinder Singh 
 I am a first year Btech CSE student in Guru Nanak Dev engineering college,ludhiana 
 I passed my 12th from GSSSS P.A.U , Ludhiana with a percentage of 91.6%

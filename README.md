@@ -26,3 +26,6 @@
 ### Future Goals
 - **Short-Term Goals:** To secure an internship or job opportunity that allows me to apply my skills and knowledge in a real-world setting, contributing to the success of the organization.
 - **Long-Term Goals:** To become a proficient software engineer, continuously learning and growing in the field, and making significant contributions to the advancement of technology.
+### Achievements
+-**Academics:** Third in district level quiz competition held by pseb in 2022 for class 10th and 9th.
+

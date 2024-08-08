@@ -28,5 +28,6 @@
 - **Long-Term Goals:** To become a proficient software engineer, continuously learning and growing in the field, and making significant contributions to the advancement of technology.
 ### Achievements
 -**Academics:** Third in district level quiz competition held by pseb in 2022 for class 10th and 9th.
+-**Non Academics:** Learned excel from Great learning.
 ![1000036437](https://github.com/user-attachments/assets/b1832926-dbef-445d-a19d-704ad9c07c38)
 
